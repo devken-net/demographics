@@ -1,0 +1,53 @@
+{
+  "PH": [
+    {
+      "id": "NCR",
+      "name": "National Capital Region",
+      "population": "13698889"
+    },
+    {
+      "id": "Visayas",
+      "name": "Central Visayas",
+      "population": "6041903"
+    },
+    {
+      "id": "Davao",
+      "name": "Davao Region",
+      "population": "4893318"
+    }
+  ],
+  "BE": [
+    {
+      "id": "Antwerp",
+      "name": "Antwerp",
+      "population": "1847486"
+    },
+    {
+      "id": "Luxembourg",
+      "name": "Luxembourg",
+      "population": "282946"
+    },
+    {
+      "id": "Hainaut",
+      "name": "Hainaut",
+      "population": "1341645"
+    }
+  ],
+  "NL": [
+    {
+      "id": "NH",
+      "name": "North Holland",
+      "population": "2853359"
+    },
+    {
+      "id": "Limburg",
+      "name": "Limburg",
+      "population": "1116137"
+    },
+    {
+      "id": "Utrecht",
+      "name": "Utrecht",
+      "population": "1342158"
+    }
+  ]
+}

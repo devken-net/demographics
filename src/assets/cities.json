@@ -1,0 +1,170 @@
+{
+  "NCR": [
+    {
+      "id": "MNL",
+      "name": "Manila",
+      "population": "1780148"
+    },
+    {
+      "id": "QC",
+      "name": "Quezon City",
+      "population": "2936116"
+    },
+    {
+      "id": "Makati",
+      "name": "Makati City",
+      "population": "582602"
+    },
+    {
+      "id": "Taguig",
+      "name": "Taguig City",
+      "population": "804915"
+    }
+  ],
+  "Visayas": [
+    {
+      "id": "CebuCity",
+      "name": "Cebu City",
+      "population": "922611"
+    },
+    {
+      "id": "LapuLapu",
+      "name": "Lapu-Lapu",
+      "population": "408112"
+    },
+    {
+      "id": "Bohol",
+      "name": "Tagbilaran",
+      "population": "1313560"
+    },
+    {
+      "id": "NegrosOriental",
+      "name": "Negros Oriental",
+      "population": "1354995"
+    }
+  ],
+  "Davao": [
+    {
+      "id": "DavaoCity",
+      "name": "Davao City",
+      "population": "1632991"
+    },
+    {
+      "id": "Tagum",
+      "name": "Tagum",
+      "population": "259444"
+    },
+    {
+      "id": "Nabunturan",
+      "name": "Nabunturan",
+      "population": "736107"
+    },
+    {
+      "id": "Digos",
+      "name": "Digos",
+      "population": "632588"
+    }
+  ],
+  "Antwerp": [
+    {
+      "id": "Antwerp",
+      "name": "Antwerp",
+      "population": "523248"
+    },
+    {
+      "id": "Geel",
+      "name": "Geel",
+      "population": "39560"
+    },
+    {
+      "id": 3,
+      "name": "Mechelen",
+      "population": "85665"
+    }
+  ],
+  "Luxembourg": [
+    {
+      "id": "Arlon",
+      "name": "Arlon",
+      "population": "29585"
+    },
+    {
+      "id": "Bouillon",
+      "name": "Bouillon",
+      "population": "5459"
+    },
+    {
+      "id": "Virton",
+      "name": "Virton",
+      "population": "11381"
+    }
+  ],
+  "Hainaut": [
+    {
+      "id": "Ath",
+      "name": "Ath",
+      "population": "29074"
+    },
+    {
+      "id": "La Louvière",
+      "name": "La Louvière",
+      "population": "80719"
+    },
+    {
+      "id": "Mons",
+      "name": "Mons",
+      "population": "95220"
+    }
+  ],
+  "NH": [
+    {
+      "id": 1,
+      "name": "Amsterdam",
+      "population": "1380872"
+    },
+    {
+      "id": "Haarlem",
+      "name": "Haarlem",
+      "population": "159556"
+    },
+    {
+      "id": "Zaanstad",
+      "name": "Zaanstad",
+      "population": "154442"
+    }
+  ],
+  "Limburg": [
+    {
+      "id": "Maastricht",
+      "name": "Maastricht",
+      "population": "277721"
+    },
+    {
+      "id": "Gennep",
+      "name": "Gennep",
+      "population": "17277"
+    },
+    {
+      "id": "Venlo",
+      "name": "Venlo",
+      "population": "101578"
+    }
+  ],
+  "Utrecht": [
+    {
+      "id": "Utrecht",
+      "name": "Utrecht",
+      "population": "347574"
+    },
+    {
+      "id": "Amersfoort",
+      "name": "Amersfoort",
+      "population": "156286"
+    },
+    {
+      "id": "Woerden",
+      "name": "Woerden",
+      "population": "51729"
+    }
+  ]
+}

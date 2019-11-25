@@ -1,0 +1,35 @@
+
+.SelectBox {
+  border: 1px solid #DFDFDF;
+  border-radius: 0.25rem;
+  height: 188px;
+  max-height: 188px;
+  overflow-y: scroll;
+}
+
+.SelectBox-title {
+  background: #2C9BF5;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  color: #FFF;
+  padding: 0.5rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.SelectBox-list,
+.SelectBox-list-item,
+.SelectBox-list-item:first-child {
+  border: none;
+  border-radius: 0;
+  cursor: pointer;
+}
+
+.SelectBox-list-item:hover {
+  background: #F2F6F9;
+}
+
+.SelectBox-list-item.selected {
+  background: #2C9AF57A;
+  font-weight: bold;
+}
