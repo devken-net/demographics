@@ -15,20 +15,20 @@ function Address({ countries, states, cities, onChange }) {
   const onSelect = (value, type) => {
     if(type === "Country") {
       setCountry(value);
-      onChange(states[value.id]);
       setState({});
       setCity({});
+      onChange(states[value.id], type);
     } else if(type === "State") {
       setState(value);
-      onChange(cities[value.id]);
       setCity({});
+      onChange(cities[value.id], type);
     } else if(type === "City") {
       setCity(value);
     }
   }
 
   return (
-    <div className="row">
+    <div className="Address row">
       <div className="Location-box col-sm">
         <SelectBox
           name="Country"

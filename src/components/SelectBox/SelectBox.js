@@ -20,10 +20,11 @@ function SelectBox({ options, value, onSelect, name }) {
           options && options.map((item, index) => {
             let styleName = "SelectBox-list-item list-group-item";
 
-            if(item.id === value.id) styleName += " selected";
+            if(value && (item.id === value.id)) styleName += " selected";
 
-            return <li
+            return <li 
                     key={index}
+                    id={item.id}
                     className={styleName}
                     role="option"
                     aria-selected="true"
